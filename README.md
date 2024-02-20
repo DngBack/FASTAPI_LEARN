@@ -12,3 +12,4 @@ Tất cả đều được trích và có thể đọc bản tiếng anh tại [
 - [Path Parameters](./tutorial/path_param/)
 - [Query Parameters](./tutorial/query_parameter/)
 - [Request Body](./tutorial/request_body/)
+- [Query Parameters and String Validations](./tutorial/Query_Pram_and_Str_Valid/)
