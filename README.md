@@ -14,3 +14,8 @@ Tất cả đều được trích và có thể đọc bản tiếng anh tại [
 - [Request Body](./tutorial/request_body/)
 - [Query Parameters and String Validations](./tutorial/Query_Pram_and_Str_Valid/)
 - [Path Parameters and Numeric Validations](./tutorial/Path_Param_and_Num_Valid/)
+- [Body - Multiple Parameters](./tutorial/body_manyparams/)
+- [Body - Fields](./tutorial/body_fields/)
+- [Body - Nested Model](./tutorial/body_nestedmodel/)
+- [Declare Request Example Data](./tutorial/declare_request/)
+- [Cookie Parameters](/tutorial/cookieParameters/)
