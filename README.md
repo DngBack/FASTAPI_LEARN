@@ -19,3 +19,6 @@ Tất cả đều được trích và có thể đọc bản tiếng anh tại [
 - [Body - Nested Model](./tutorial/body_nestedmodel/)
 - [Declare Request Example Data](./tutorial/declare_request/)
 - [Cookie Parameters](/tutorial/cookieParameters/)
+- [Response Model- Retủn Type](/tutorial/responseModel/)
+- [Request Forms and Files](/tutorial/requestFormandFiles/)
+- [Body-Updates]()
